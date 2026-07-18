@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9259F9CA-70B2-4B60-8FA2-4087D08A3C41}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\externalservices\\implements\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9259F9CA-70B2-4B60-8FA2-4087D08A3C41}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\externalservices\\implements\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9259F9CA-70B2-4B60-8FA2-4087D08A3C41}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\externalservices\\abstracts\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9259F9CA-70B2-4B60-8FA2-4087D08A3C41}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\externalservices\\abstracts\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECFC096-F0E6-4A9A-B3D4-474C7E703A06}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECFC096-F0E6-4A9A-B3D4-474C7E703A06}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B342A0-120B-486C-AD12-5EB10F6B0DBF}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B342A0-120B-486C-AD12-5EB10F6B0DBF}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B342A0-120B-486C-AD12-5EB10F6B0DBF}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B342A0-120B-486C-AD12-5EB10F6B0DBF}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C20762A-7496-46AA-9488-68A513170AB3}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C20762A-7496-46AA-9488-68A513170AB3}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECFC096-F0E6-4A9A-B3D4-474C7E703A06}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\migrations\\20260718230553_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECFC096-F0E6-4A9A-B3D4-474C7E703A06}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\migrations\\20260718230553_createdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C20762A-7496-46AA-9488-68A513170AB3}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C20762A-7496-46AA-9488-68A513170AB3}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C20762A-7496-46AA-9488-68A513170AB3}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4C20762A-7496-46AA-9488-68A513170AB3}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ECFC096-F0E6-4A9A-B3D4-474C7E703A06}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\contexts\\finaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ECFC096-F0E6-4A9A-B3D4-474C7E703A06}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\contexts\\finaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\ExternalServices\\implements\\FileService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\ExternalServices\\implements\\FileService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\ExternalServices\\implements\\FileService.cs*",
+              "RelativeToolTip": "Final.BL\\ExternalServices\\implements\\FileService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T23:24:12.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IFIleService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\ExternalServices\\Abstracts\\IFIleService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\ExternalServices\\Abstracts\\IFIleService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\ExternalServices\\Abstracts\\IFIleService.cs*",
+              "RelativeToolTip": "Final.BL\\ExternalServices\\Abstracts\\IFIleService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T23:23:53.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\BaseEntity.cs*",
+              "RelativeToolTip": "Final.Core\\Entities\\BaseEntity.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T23:20:33.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\GenericRepository.cs*",
+              "RelativeToolTip": "Final.DAL\\Repositories\\GenericRepository.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T23:14:24.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IGenericRepository.cs*",
+              "RelativeToolTip": "Final.Core\\Repositories\\IGenericRepository.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T23:11:19.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260718230553_CreateDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260718230553_CreateDatabase.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Migrations\\20260718230553_CreateDatabase.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260718230553_CreateDatabase.cs",
+              "RelativeToolTip": "Final.DAL\\Migrations\\20260718230553_CreateDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T23:05:54.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FinalAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Program.cs",
+              "RelativeToolTip": "FinalAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T22:53:58.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "FinalAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\appsettings.Development.json",
+              "RelativeToolTip": "FinalAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-18T22:52:22.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FinalAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\appsettings.json",
+              "RelativeToolTip": "FinalAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-18T22:52:09.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FinalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Contexts\\FinalDbContext.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Contexts\\FinalDbContext.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Contexts\\FinalDbContext.cs",
+              "RelativeToolTip": "Final.DAL\\Contexts\\FinalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T22:49:11.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
