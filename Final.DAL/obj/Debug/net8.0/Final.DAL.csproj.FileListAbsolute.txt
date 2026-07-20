@@ -15,3 +15,4 @@ C:\Users\Yusiff\OneDrive\Desktop\FINAL\FinalAPI\Final.DAL\obj\Debug\net8.0\Final
 C:\Users\Yusiff\OneDrive\Desktop\FINAL\FinalAPI\Final.DAL\bin\Debug\net8.0\Final.Core.dll
 C:\Users\Yusiff\OneDrive\Desktop\FINAL\FinalAPI\Final.DAL\bin\Debug\net8.0\Final.Core.pdb
 C:\Users\Yusiff\OneDrive\Desktop\FINAL\FinalAPI\Final.DAL\obj\Debug\net8.0\Final.DAL.csproj.Up2Date
+C:\Users\Yusiff\OneDrive\Desktop\FINAL\FinalAPI\Final.DAL\obj\Debug\net8.0\Final.DAL.sourcelink.json

@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Final.Core.Entities;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,8 @@ namespace Final.DAL.Contexts
 {
     public class FinalDbContext :DbContext
     {
+        public DbSet<Slider> Sliders { get; set; }
+
         public FinalDbContext(DbContextOptions options):base(options)
         {
             

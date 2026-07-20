@@ -15,3 +15,4 @@ C:\Users\Yusiff\OneDrive\Desktop\FINAL\FinalAPI\Final.BL\bin\Debug\net8.0\Final.
 C:\Users\Yusiff\OneDrive\Desktop\FINAL\FinalAPI\Final.BL\bin\Debug\net8.0\Final.Core.pdb
 C:\Users\Yusiff\OneDrive\Desktop\FINAL\FinalAPI\Final.BL\obj\Debug\net8.0\Final.BL.csproj.AssemblyReference.cache
 C:\Users\Yusiff\OneDrive\Desktop\FINAL\FinalAPI\Final.BL\obj\Debug\net8.0\Final.BL.csproj.Up2Date
+C:\Users\Yusiff\OneDrive\Desktop\FINAL\FinalAPI\Final.BL\obj\Debug\net8.0\Final.BL.sourcelink.json

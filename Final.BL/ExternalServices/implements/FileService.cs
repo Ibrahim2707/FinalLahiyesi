@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Options;
 using CloudinaryDotNet.Actions;
 using CloudinaryDotNet;
+using Final.Core.Entities;
 
 namespace Final.BL.ExternalServices.implements
 {
