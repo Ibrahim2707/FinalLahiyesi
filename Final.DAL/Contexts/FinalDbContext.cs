@@ -1,18 +1,15 @@
 ﻿using Final.Core.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Final.DAL.Contexts
 {
     public class FinalDbContext :DbContext
     {
         public DbSet<Slider> Sliders { get; set; }
-
-        public FinalDbContext(DbContextOptions options):base(options)
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Blog> Blogs { get; set; }
+        public DbSet<AboutUs> AboutUs { get; set; }
+        public FinalDbContext(DbContextOptions<FinalDbContext> options)
+     : base(options)
         {
             
         }

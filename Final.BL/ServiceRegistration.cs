@@ -1,8 +1,8 @@
 ﻿using Final.BL.Services.Abstract;
-using Microsoft.Extensions.DependencyInjection;
+using Final.BL.Services.Implements;
 using FluentValidation;
 using FluentValidation.AspNetCore;
-using Final.BL.Services.Implements;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace Final.BL
 {
@@ -11,6 +11,9 @@ namespace Final.BL
         public static IServiceCollection AddServices(this IServiceCollection services)
         {
             services.AddScoped<ISliderService,SliderService>();
+            services.AddScoped<ICategoryService,CategoryService>();
+            services.AddScoped<IBlogService, BlogService>();
+            services.AddScoped<IAboutUsService, AboutUsService>();
             return services;
         }
         public static IServiceCollection AddFluentValidation(this IServiceCollection services)

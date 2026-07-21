@@ -9,6 +9,9 @@ namespace Final.DAL
         public static IServiceCollection AddRepositories(this IServiceCollection services)
         {
             services.AddScoped<ISliderRepository, SliderRepository>();
+            services.AddScoped<IBlogRepository, BlogRepository>();
+            services.AddScoped<ICategoryRepository, CategoryRepository>();
+            services.AddScoped<IAboutUsRepository, AboutUsRepository>();
             return services;
         }
     }

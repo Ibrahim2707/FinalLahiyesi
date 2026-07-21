@@ -18,9 +18,6 @@ namespace Final.DAL.Repositories
             _context = context;
         }
 
-        public Task GetAllAsync()
-        {
-            throw new NotImplementedException();
-        }
+       
     }
 }
