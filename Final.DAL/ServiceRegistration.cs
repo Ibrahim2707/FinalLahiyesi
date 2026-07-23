@@ -1,4 +1,5 @@
-﻿using Final.Core.Repositories;
+﻿using Final.Core.Entities;
+using Final.Core.Repositories;
 using Final.DAL.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 namespace Final.DAL
@@ -12,6 +13,11 @@ namespace Final.DAL
             services.AddScoped<IBlogRepository, BlogRepository>();
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<IAboutUsRepository, AboutUsRepository>();
+            services.AddScoped<IMessageRepository, MessageRepository>();
+            services.AddScoped<IProductRepository, ProductRepository>();
+            services.AddScoped<IProductParameterRepository, ProductParameterRepository>();
+            services.AddScoped<IProductImageRepository, ProductImageRepository>();
+            services.AddScoped<IBasketRepository, BasketRepository>();
             return services;
         }
     }

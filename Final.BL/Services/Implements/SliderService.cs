@@ -11,6 +11,7 @@ namespace Final.BL.Services.Implements
 {
     public class SliderService(ISliderRepository _repo, IFileService _file, IMapper _mapper) : ISliderService
     {
+    
         public async Task<Slider> CreateAsync(SliderCreateDTO dto)
         {
             string ImageURL = null;

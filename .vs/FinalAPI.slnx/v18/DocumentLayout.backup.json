@@ -3,12 +3,328 @@
   "WorkspaceRootPath": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\aboutus\\aboutusgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\aboutus\\aboutusgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260723145501_Basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final.DAL\\Migrations\\20260723145501_Basket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\repositories\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\basketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\contexts\\finaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\contexts\\finaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\basketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\services\\implements\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implements\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\basket\\basketgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\basket\\basketgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\basket\\basketitemgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\basket\\basketitemgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\services\\implements\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implements\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\repositories\\productimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\productimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\entities\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\product\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\product\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\product\\productupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\services\\implements\\productimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implements\\productimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\repositories\\iproductimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\repositories\\iproductimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\services\\implements\\productparameterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implements\\productparameterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\services\\abstract\\iproductimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstract\\iproductimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\services\\abstract\\iproductparameterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstract\\iproductparameterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\productimage\\productimagegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\productimage\\productimagegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\productimage\\productimagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\productimage\\productimagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260722214159_ProductParameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final.DAL\\Migrations\\20260722214159_ProductParameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\controllers\\productparametercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\controllers\\productparametercontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\productparameter\\productparameterupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\productparameter\\productparameterupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\profiles\\productparameterprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\profiles\\productparameterprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\productparameter\\producparametercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\productparameter\\producparametercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\services\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\productparameter\\productparametergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\productparameter\\productparametergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\serviceregistraton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\serviceregistraton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\profiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\configurations\\productparameterconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\configurations\\productparameterconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\entities\\productparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\productparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\configurations\\productconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\configurations\\productconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\entities\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\entities\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\repositories\\productparameterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\productparameterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\configurations\\messageconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\configurations\\messageconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\repositories\\iproductparameterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\repositories\\iproductparameterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260722202626_Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final.DAL\\Migrations\\20260722202626_Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\repositories\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\services\\implements\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implements\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\services\\abstract\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstract\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\externalservices\\implements\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\externalservices\\implements\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\externalservices\\abstracts\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\externalservices\\abstracts\\ifileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\product\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\product\\productgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\profiles\\messageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\profiles\\messageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\slider\\slidercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\slider\\slidercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\profiles\\sliderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\profiles\\sliderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\repositories\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\repositories\\imessagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\repositories\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\repositories\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\repositories\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\repositories\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\configurations\\categoryconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\configurations\\categoryconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\configurations\\sliderconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\configurations\\sliderconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260721211805_Message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final.DAL\\Migrations\\20260721211805_Message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\exceptions\\existexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\exceptions\\existexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\services\\implements\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implements\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\services\\abstract\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstract\\imessageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\message\\messagegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\message\\messagegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\message\\messageupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\message\\messageupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\message\\messagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\message\\messagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\slider\\sliderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\slider\\sliderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\slider\\slidergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\slider\\slidergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\blog\\bloggetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\blog\\bloggetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\migrations\\20260721185033_aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\migrations\\20260721185033_aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\aboutus\\aboutusgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\aboutus\\aboutusgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\aboutus\\aboutusupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,28 +339,8 @@
       "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implements\\aboutusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260721185033_AboutUs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final.DAL\\Migrations\\20260721185033_AboutUs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\contexts\\finaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\contexts\\finaldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\controllers\\aboutuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\serviceregistraton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\serviceregistraton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\repositories\\aboutusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,14 +359,6 @@
       "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstract\\iaboutusservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\services\\implements\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\implements\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\services\\abstract\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstract\\isliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\services\\abstract\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\services\\abstract\\iblogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,28 +367,8 @@
       "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\repositories\\iaboutusrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\slider\\sliderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\slider\\sliderupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\slider\\slidercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\slider\\slidercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\profiles\\sliderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\profiles\\sliderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\controllers\\sliderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\repositories\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\repositories\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\repositories\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,28 +379,8 @@
       "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\configurations\\aboutconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\entities\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\aboutus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\configurations\\sliderconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\configurations\\sliderconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\configurations\\blogconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\configurations\\blogconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260721164325_Blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final.DAL\\Migrations\\20260721164325_Blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -151,16 +399,8 @@
       "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\profiles\\blogprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\blog\\blogupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\blog\\blogupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\blog\\bloggetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\blog\\bloggetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\blog\\blogcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -169,18 +409,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\repositories\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\repositories\\isliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\category\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -195,32 +423,12 @@
       "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\dtos\\category\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\dtos\\category\\categoryupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260720222824_AddCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Final.DAL\\Migrations\\20260720222824_AddCategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\configurations\\categoryconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\configurations\\categoryconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\repositories\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\repositories\\sliderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\migrations\\20260720163638_sliders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -235,10 +443,6 @@
       "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\final.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\finalapi\\finalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{580A97E8-F8A1-5AC5-550A-9772611F6EAC}|FinalAPI\\FinalAPI.csproj|solutionrelative:finalapi\\finalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -247,20 +451,16 @@
       "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\exceptions\\existexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\exceptions\\existexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\exceptions\\common\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\exceptions\\common\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.bl\\externalservices\\implements\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{000BAA84-802D-34E5-B13A-FC34C3ACC72C}|Final.BL\\Final.BL.csproj|solutionrelative:final.bl\\externalservices\\implements\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\migrations\\20260721164325_blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\migrations\\20260721164325_blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.core\\entities\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68E7AE81-CD96-9D7E-4891-3E6990C8DBD6}|Final.Core\\Final.Core.csproj|solutionrelative:final.core\\entities\\cloudinarysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|c:\\users\\yusiff\\onedrive\\desktop\\final\\finalapi\\final.dal\\migrations\\20260720222824_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0134DAFA-424A-E729-0FBE-F606E15DC18A}|Final.DAL\\Final.DAL.csproj|solutionrelative:final.dal\\migrations\\20260720222824_addcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -270,557 +470,245 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20260721185033_AboutUs.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260721185033_AboutUs.cs",
-              "RelativeDocumentMoniker": "Final.DAL\\Migrations\\20260721185033_AboutUs.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260721185033_AboutUs.cs",
-              "RelativeToolTip": "Final.DAL\\Migrations\\20260721185033_AboutUs.cs",
+              "DocumentIndex": 0,
+              "Title": "20260723145501_Basket.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260723145501_Basket.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Migrations\\20260723145501_Basket.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260723145501_Basket.cs",
+              "RelativeToolTip": "Final.DAL\\Migrations\\20260723145501_Basket.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T18:50:34.263Z",
+              "WhenOpened": "2026-07-23T14:55:01.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\BasketRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\BasketRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\BasketRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\BasketRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T14:54:05.574Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AboutUsService.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\AboutUsService.cs",
-              "RelativeDocumentMoniker": "Final.BL\\Services\\Implements\\AboutUsService.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\AboutUsService.cs",
-              "RelativeToolTip": "Final.BL\\Services\\Implements\\AboutUsService.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAcwC4AAAAzAAAAAAAAAA==",
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\BasketService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implements\\BasketService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\BasketService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implements\\BasketService.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T18:23:57.479Z",
+              "WhenOpened": "2026-07-23T14:53:32.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasketItemGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Basket\\BasketItemGetDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Basket\\BasketItemGetDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Basket\\BasketItemGetDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\Basket\\BasketItemGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T14:53:05.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasketGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Basket\\BasketGetDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Basket\\BasketGetDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Basket\\BasketGetDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\Basket\\BasketGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T14:52:58.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasketItem.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\BasketItem.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\BasketItem.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\BasketItem.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\BasketItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T14:52:32.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\ProductImageRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\ProductImageRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\ProductImageRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\ProductImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T13:30:35.955Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AboutUsController.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\AboutUsController.cs",
-              "RelativeDocumentMoniker": "FinalAPI\\Controllers\\AboutUsController.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\AboutUsController.cs",
-              "RelativeToolTip": "FinalAPI\\Controllers\\AboutUsController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAIwBsAAAAJAAAAAAAAAA==",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\ProductService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implements\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\ProductService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implements\\ProductService.cs",
+              "ViewState": "AgIAALUAAAAAAAAAAAAcwFgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T18:06:09.047Z",
+              "WhenOpened": "2026-07-22T19:23:54.125Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Product.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADgvx8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T18:40:26.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\ProductImage.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T12:27:18.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FinalDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Contexts\\FinalDbContext.cs",
               "RelativeDocumentMoniker": "Final.DAL\\Contexts\\FinalDbContext.cs",
               "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Contexts\\FinalDbContext.cs",
               "RelativeToolTip": "Final.DAL\\Contexts\\FinalDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-20T16:34:41.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AboutUsCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\AboutUs\\AboutUsCreateDTO.cs",
-              "RelativeDocumentMoniker": "Final.BL\\DTOs\\AboutUs\\AboutUsCreateDTO.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\AboutUs\\AboutUsCreateDTO.cs*",
-              "RelativeToolTip": "Final.BL\\DTOs\\AboutUs\\AboutUsCreateDTO.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "ProductCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Product\\ProductCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Product\\ProductCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Product\\ProductCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\Product\\ProductCreateDTO.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwCAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T18:13:12.009Z",
+              "WhenOpened": "2026-07-22T19:16:44.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AboutUsGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\AboutUs\\AboutUsGetDTO.cs",
-              "RelativeDocumentMoniker": "Final.BL\\DTOs\\AboutUs\\AboutUsGetDTO.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\AboutUs\\AboutUsGetDTO.cs*",
-              "RelativeToolTip": "Final.BL\\DTOs\\AboutUs\\AboutUsGetDTO.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T18:13:34.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AboutUsUpdateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\AboutUs\\AboutUsUpdateDTO.cs",
-              "RelativeDocumentMoniker": "Final.BL\\DTOs\\AboutUs\\AboutUsUpdateDTO.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\AboutUs\\AboutUsUpdateDTO.cs",
-              "RelativeToolTip": "Final.BL\\DTOs\\AboutUs\\AboutUsUpdateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T18:14:11.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SliderGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Slider\\SliderGetDTO.cs",
-              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Slider\\SliderGetDTO.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Slider\\SliderGetDTO.cs",
-              "RelativeToolTip": "Final.BL\\DTOs\\Slider\\SliderGetDTO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T12:50:27.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "Final.BL\\ServiceRegistration.cs",
               "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\ServiceRegistration.cs",
               "RelativeToolTip": "Final.BL\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAABMAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-19T13:50:56.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ServiceRegistraton.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\ServiceRegistraton.cs",
-              "RelativeDocumentMoniker": "FinalAPI\\ServiceRegistraton.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\ServiceRegistraton.cs",
-              "RelativeToolTip": "FinalAPI\\ServiceRegistraton.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T13:49:44.938Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AboutUsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\AboutUsRepository.cs",
-              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\AboutUsRepository.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\AboutUsRepository.cs",
-              "RelativeToolTip": "Final.DAL\\Repositories\\AboutUsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T17:56:18.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AboutUsProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\AboutUsProfile.cs",
-              "RelativeDocumentMoniker": "FinalAPI\\Profiles\\AboutUsProfile.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\AboutUsProfile.cs",
-              "RelativeToolTip": "FinalAPI\\Profiles\\AboutUsProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T18:10:17.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "Final.DAL\\ServiceRegistration.cs",
               "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\ServiceRegistration.cs",
               "RelativeToolTip": "Final.DAL\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewAwAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-20T00:13:25.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "BlogService.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\BlogService.cs",
-              "RelativeDocumentMoniker": "Final.BL\\Services\\Implements\\BlogService.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\BlogService.cs",
-              "RelativeToolTip": "Final.BL\\Services\\Implements\\BlogService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGEAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FinalAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FinalAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T16:13:17.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IAboutUsService.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\IAboutUsService.cs",
-              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstract\\IAboutUsService.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\IAboutUsService.cs",
-              "RelativeToolTip": "Final.BL\\Services\\Abstract\\IAboutUsService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T18:21:24.452Z",
+              "WhenOpened": "2026-07-22T19:07:48.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "SliderService.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\SliderService.cs",
-              "RelativeDocumentMoniker": "Final.BL\\Services\\Implements\\SliderService.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\SliderService.cs",
-              "RelativeToolTip": "Final.BL\\Services\\Implements\\SliderService.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAAAHAAAAAJAAAAAAAAAA==",
+              "Title": "ProductUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Product\\ProductUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Product\\ProductUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Product\\ProductUpdateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\Product\\ProductUpdateDTO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T13:03:13.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IAboutUsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IAboutUsRepository.cs",
-              "RelativeDocumentMoniker": "Final.Core\\Repositories\\IAboutUsRepository.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IAboutUsRepository.cs",
-              "RelativeToolTip": "Final.Core\\Repositories\\IAboutUsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T18:02:34.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SliderUpdateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Slider\\SliderUpdateDTO.cs",
-              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Slider\\SliderUpdateDTO.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Slider\\SliderUpdateDTO.cs",
-              "RelativeToolTip": "Final.BL\\DTOs\\Slider\\SliderUpdateDTO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T12:50:32.829Z",
+              "WhenOpened": "2026-07-22T19:17:27.513Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "ISliderService.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\ISliderService.cs",
-              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstract\\ISliderService.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\ISliderService.cs",
-              "RelativeToolTip": "Final.BL\\Services\\Abstract\\ISliderService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Title": "ProductImageService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\ProductImageService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implements\\ProductImageService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\ProductImageService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implements\\ProductImageService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T12:59:26.72Z",
+              "WhenOpened": "2026-07-23T12:40:26.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "IBlogService.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\IBlogService.cs",
-              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstract\\IBlogService.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\IBlogService.cs",
-              "RelativeToolTip": "Final.BL\\Services\\Abstract\\IBlogService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Title": "IProductImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IProductImageRepository.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Repositories\\IProductImageRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IProductImageRepository.cs",
+              "RelativeToolTip": "Final.Core\\Repositories\\IProductImageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T16:07:21.303Z",
+              "WhenOpened": "2026-07-23T12:43:23.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "SliderCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Slider\\SliderCreateDTO.cs",
-              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Slider\\SliderCreateDTO.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Slider\\SliderCreateDTO.cs",
-              "RelativeToolTip": "Final.BL\\DTOs\\Slider\\SliderCreateDTO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T12:50:58.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "AboutConfigrations.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\AboutConfigrations.cs",
-              "RelativeDocumentMoniker": "Final.DAL\\Configurations\\AboutConfigrations.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\AboutConfigrations.cs",
-              "RelativeToolTip": "Final.DAL\\Configurations\\AboutConfigrations.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T17:48:41.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "AboutUs.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\AboutUs.cs",
-              "RelativeDocumentMoniker": "Final.Core\\Entities\\AboutUs.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\AboutUs.cs",
-              "RelativeToolTip": "Final.Core\\Entities\\AboutUs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T17:45:57.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "BlogRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\BlogRepository.cs",
-              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\BlogRepository.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\BlogRepository.cs",
-              "RelativeToolTip": "Final.DAL\\Repositories\\BlogRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T15:51:55.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "BlogController.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\BlogController.cs",
-              "RelativeDocumentMoniker": "FinalAPI\\Controllers\\BlogController.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\BlogController.cs",
-              "RelativeToolTip": "FinalAPI\\Controllers\\BlogController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T16:30:15.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "SliderProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\SliderProfile.cs",
-              "RelativeDocumentMoniker": "FinalAPI\\Profiles\\SliderProfile.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\SliderProfile.cs",
-              "RelativeToolTip": "FinalAPI\\Profiles\\SliderProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T12:53:52.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Final.Core\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "Final.Core\\Entities\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T17:45:05.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "SlidersController.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\SlidersController.cs",
-              "RelativeDocumentMoniker": "FinalAPI\\Controllers\\SlidersController.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\SlidersController.cs",
-              "RelativeToolTip": "FinalAPI\\Controllers\\SlidersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T15:09:42.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "20260721164325_Blog.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260721164325_Blog.cs",
-              "RelativeDocumentMoniker": "Final.DAL\\Migrations\\20260721164325_Blog.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260721164325_Blog.cs",
-              "RelativeToolTip": "Final.DAL\\Migrations\\20260721164325_Blog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T16:43:25.449Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "BlogConfigrations.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\BlogConfigrations.cs",
-              "RelativeDocumentMoniker": "Final.DAL\\Configurations\\BlogConfigrations.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\BlogConfigrations.cs",
-              "RelativeToolTip": "Final.DAL\\Configurations\\BlogConfigrations.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T15:25:07.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IBlogRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IBlogRepository.cs",
-              "RelativeDocumentMoniker": "Final.Core\\Repositories\\IBlogRepository.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IBlogRepository.cs",
-              "RelativeToolTip": "Final.Core\\Repositories\\IBlogRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T15:48:42.772Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "FinalAPI\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "FinalAPI\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T21:54:24.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "SliderConfigurations.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\SliderConfigurations.cs",
-              "RelativeDocumentMoniker": "Final.DAL\\Configurations\\SliderConfigurations.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\SliderConfigurations.cs",
-              "RelativeToolTip": "Final.DAL\\Configurations\\SliderConfigurations.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T16:14:45.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Blog.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\Blog.cs",
-              "RelativeDocumentMoniker": "Final.Core\\Entities\\Blog.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\Blog.cs",
-              "RelativeToolTip": "Final.Core\\Entities\\Blog.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T15:15:14.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\CategoryService.cs",
-              "RelativeDocumentMoniker": "Final.BL\\Services\\Implements\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\CategoryService.cs",
-              "RelativeToolTip": "Final.BL\\Services\\Implements\\CategoryService.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T21:34:38.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "BlogProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\BlogProfile.cs",
-              "RelativeDocumentMoniker": "FinalAPI\\Profiles\\BlogProfile.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\BlogProfile.cs",
-              "RelativeToolTip": "FinalAPI\\Profiles\\BlogProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T15:38:31.359Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "BlogUpdateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Blog\\BlogUpdateDTO.cs",
-              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Blog\\BlogUpdateDTO.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Blog\\BlogUpdateDTO.cs",
-              "RelativeToolTip": "Final.BL\\DTOs\\Blog\\BlogUpdateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T15:46:04.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "BlogGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Blog\\BlogGetDTO.cs",
-              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Blog\\BlogGetDTO.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Blog\\BlogGetDTO.cs",
-              "RelativeToolTip": "Final.BL\\DTOs\\Blog\\BlogGetDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T15:44:46.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "BlogCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Blog\\BlogCreateDTO.cs",
-              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Blog\\BlogCreateDTO.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Blog\\BlogCreateDTO.cs",
-              "RelativeToolTip": "Final.BL\\DTOs\\Blog\\BlogCreateDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-21T15:43:56.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "Final.DAL\\Repositories\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T20:05:30.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ICategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\ICategoryService.cs",
-              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstract\\ICategoryService.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\ICategoryService.cs",
-              "RelativeToolTip": "Final.BL\\Services\\Abstract\\ICategoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T21:30:21.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "Final.DAL\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T20:03:32.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 18,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "Final.Core\\Repositories\\ICategoryRepository.cs",
@@ -833,150 +721,280 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Final.Core\\Repositories\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IGenericRepository.cs",
-              "RelativeToolTip": "Final.Core\\Repositories\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "IProductImageService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\IProductImageService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstract\\IProductImageService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\IProductImageService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstract\\IProductImageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T00:39:07.335Z",
+              "WhenOpened": "2026-07-23T12:38:58.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "ISliderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\ISliderRepository.cs",
-              "RelativeDocumentMoniker": "Final.Core\\Repositories\\ISliderRepository.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\ISliderRepository.cs",
-              "RelativeToolTip": "Final.Core\\Repositories\\ISliderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "ProductImageGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\ProductImage\\ProductImageGetDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\ProductImage\\ProductImageGetDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\ProductImage\\ProductImageGetDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\ProductImage\\ProductImageGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T13:05:34.757Z",
+              "WhenOpened": "2026-07-23T12:37:26.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "CategoryProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\CategoryProfile.cs",
-              "RelativeDocumentMoniker": "FinalAPI\\Profiles\\CategoryProfile.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\CategoryProfile.cs",
-              "RelativeToolTip": "FinalAPI\\Profiles\\CategoryProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "ProductImageCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\ProductImage\\ProductImageCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\ProductImage\\ProductImageCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\ProductImage\\ProductImageCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\ProductImage\\ProductImageCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T21:10:35.241Z",
+              "WhenOpened": "2026-07-23T12:35:49.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "20260720222824_AddCategory.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260720222824_AddCategory.cs",
-              "RelativeDocumentMoniker": "Final.DAL\\Migrations\\20260720222824_AddCategory.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260720222824_AddCategory.cs",
-              "RelativeToolTip": "Final.DAL\\Migrations\\20260720222824_AddCategory.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "20260722214159_ProductParameter.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260722214159_ProductParameter.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Migrations\\20260722214159_ProductParameter.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260722214159_ProductParameter.cs",
+              "RelativeToolTip": "Final.DAL\\Migrations\\20260722214159_ProductParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T22:28:24.675Z",
+              "WhenOpened": "2026-07-22T21:41:59.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "CategoryCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Category\\CategoryCreateDTO.cs",
-              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Category\\CategoryCreateDTO.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Category\\CategoryCreateDTO.cs",
-              "RelativeToolTip": "Final.BL\\DTOs\\Category\\CategoryCreateDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "ProductParameterService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\ProductParameterService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implements\\ProductParameterService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\ProductParameterService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implements\\ProductParameterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T21:24:06.723Z",
+              "WhenOpened": "2026-07-22T21:30:18.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "CategoryGetDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Category\\CategoryGetDTO.cs",
-              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Category\\CategoryGetDTO.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Category\\CategoryGetDTO.cs",
-              "RelativeToolTip": "Final.BL\\DTOs\\Category\\CategoryGetDTO.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "DocumentIndex": 29,
+              "Title": "ProducParameterCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\ProductParameter\\ProducParameterCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\ProductParameter\\ProducParameterCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\ProductParameter\\ProducParameterCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\ProductParameter\\ProducParameterCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T21:25:35.079Z",
+              "WhenOpened": "2026-07-22T21:24:30.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "CategoryUpdateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Category\\CategoryUpdateDTO.cs",
-              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Category\\CategoryUpdateDTO.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Category\\CategoryUpdateDTO.cs",
-              "RelativeToolTip": "Final.BL\\DTOs\\Category\\CategoryUpdateDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "IProductParameterService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\IProductParameterService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstract\\IProductParameterService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\IProductParameterService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstract\\IProductParameterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T21:26:25.251Z",
+              "WhenOpened": "2026-07-22T21:34:09.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "Final.Core\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\Category.cs",
-              "RelativeToolTip": "Final.Core\\Entities\\Category.cs",
+              "DocumentIndex": 28,
+              "Title": "ProductParameterProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\ProductParameterProfile.cs",
+              "RelativeDocumentMoniker": "FinalAPI\\Profiles\\ProductParameterProfile.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\ProductParameterProfile.cs",
+              "RelativeToolTip": "FinalAPI\\Profiles\\ProductParameterProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T21:21:31.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductParameterControllers.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\ProductParameterControllers.cs",
+              "RelativeDocumentMoniker": "FinalAPI\\Controllers\\ProductParameterControllers.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\ProductParameterControllers.cs",
+              "RelativeToolTip": "FinalAPI\\Controllers\\ProductParameterControllers.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAewCIAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T21:17:38.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:45:05.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductParameterUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\ProductParameter\\ProductParameterUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\ProductParameter\\ProductParameterUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\ProductParameter\\ProductParameterUpdateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\ProductParameter\\ProductParameterUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T21:25:30.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstract\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T19:21:54.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductParameterGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\ProductParameter\\ProductParameterGetDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\ProductParameter\\ProductParameterGetDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\ProductParameter\\ProductParameterGetDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\ProductParameter\\ProductParameterGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T21:25:00.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductParameterConfigrations.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\ProductParameterConfigrations.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Configurations\\ProductParameterConfigrations.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\ProductParameterConfigrations.cs",
+              "RelativeToolTip": "Final.DAL\\Configurations\\ProductParameterConfigrations.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAewBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T20:51:02.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "FinalAPI\\Profiles\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\ProductProfile.cs",
+              "RelativeToolTip": "FinalAPI\\Profiles\\ProductProfile.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T19:14:05.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ServiceRegistraton.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\ServiceRegistraton.cs",
+              "RelativeDocumentMoniker": "FinalAPI\\ServiceRegistraton.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\ServiceRegistraton.cs",
+              "RelativeToolTip": "FinalAPI\\ServiceRegistraton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T13:49:44.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProductParameter.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\ProductParameter.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\ProductParameter.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\ProductParameter.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\ProductParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T20:44:34.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductConfigrations.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\ProductConfigrations.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Configurations\\ProductConfigrations.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\ProductConfigrations.cs",
+              "RelativeToolTip": "Final.DAL\\Configurations\\ProductConfigrations.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T18:57:21.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\Blog.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Blog.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\Blog.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Blog.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T15:15:14.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "FinalAPI\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "FinalAPI\\Middlewares\\ExceptionMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T19:42:16.956Z",
+              "WhenOpened": "2026-07-20T00:49:47.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "CategoryConfigrations.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\CategoryConfigrations.cs",
-              "RelativeDocumentMoniker": "Final.DAL\\Configurations\\CategoryConfigrations.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\CategoryConfigrations.cs",
-              "RelativeToolTip": "Final.DAL\\Configurations\\CategoryConfigrations.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "DocumentIndex": 41,
+              "Title": "AboutUs.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\AboutUs.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\AboutUs.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\AboutUs.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\AboutUs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T19:54:26.411Z",
+              "WhenOpened": "2026-07-21T17:45:57.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "SliderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\SliderRepository.cs",
-              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\SliderRepository.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\SliderRepository.cs",
-              "RelativeToolTip": "Final.DAL\\Repositories\\SliderRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T13:07:26.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Program.cs",
-              "RelativeDocumentMoniker": "FinalAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Program.cs",
-              "RelativeToolTip": "FinalAPI\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T13:42:03.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 42,
               "Title": "Slider.cs",
               "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\Slider.cs",
               "RelativeDocumentMoniker": "Final.Core\\Entities\\Slider.cs",
@@ -989,7 +1007,862 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CloudinarySettings.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\CloudinarySettings.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\CloudinarySettings.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\CloudinarySettings.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\CloudinarySettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T13:46:40.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\Message.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T20:31:00.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ProductParameterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\ProductParameterRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\ProductParameterRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\ProductParameterRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\ProductParameterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T21:00:23.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T19:05:29.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "MessageConfigrations.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\MessageConfigrations.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Configurations\\MessageConfigrations.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\MessageConfigrations.cs",
+              "RelativeToolTip": "Final.DAL\\Configurations\\MessageConfigrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T20:39:50.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IProductParameterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IProductParameterRepository.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Repositories\\IProductParameterRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IProductParameterRepository.cs",
+              "RelativeToolTip": "Final.Core\\Repositories\\IProductParameterRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T20:49:18.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Final.Core\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T19:03:09.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20260722202626_Product.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260722202626_Product.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Migrations\\20260722202626_Product.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260722202626_Product.cs",
+              "RelativeToolTip": "Final.DAL\\Migrations\\20260722202626_Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T20:26:26.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\SliderRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\SliderRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\SliderRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\SliderRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T13:07:26.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\SliderService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implements\\SliderService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\SliderService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implements\\SliderService.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAcwA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T13:03:13.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\MessageRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\MessageRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\MessageRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\MessageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T20:44:45.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IFIleService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\ExternalServices\\Abstracts\\IFIleService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\ExternalServices\\Abstracts\\IFIleService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\ExternalServices\\Abstracts\\IFIleService.cs",
+              "RelativeToolTip": "Final.BL\\ExternalServices\\Abstracts\\IFIleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T19:21:10.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 55,
+              "Title": "ProductGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Product\\ProductGetDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Product\\ProductGetDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Product\\ProductGetDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\Product\\ProductGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T19:17:04.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "MessageProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\MessageProfile.cs",
+              "RelativeDocumentMoniker": "FinalAPI\\Profiles\\MessageProfile.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\MessageProfile.cs",
+              "RelativeToolTip": "FinalAPI\\Profiles\\MessageProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T20:50:55.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SliderCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Slider\\SliderCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Slider\\SliderCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Slider\\SliderCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\Slider\\SliderCreateDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T12:50:58.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ISliderService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\ISliderService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstract\\ISliderService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\ISliderService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstract\\ISliderService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T12:59:26.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\ExternalServices\\implements\\FileService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\ExternalServices\\implements\\FileService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\ExternalServices\\implements\\FileService.cs",
+              "RelativeToolTip": "Final.BL\\ExternalServices\\implements\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T13:41:15.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T20:03:32.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SlidersController.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\SlidersController.cs",
+              "RelativeDocumentMoniker": "FinalAPI\\Controllers\\SlidersController.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\SlidersController.cs",
+              "RelativeToolTip": "FinalAPI\\Controllers\\SlidersController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T15:09:42.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SliderProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\SliderProfile.cs",
+              "RelativeDocumentMoniker": "FinalAPI\\Profiles\\SliderProfile.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\SliderProfile.cs",
+              "RelativeToolTip": "FinalAPI\\Profiles\\SliderProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T12:53:52.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IMessageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IMessageRepository.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Repositories\\IMessageRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IMessageRepository.cs",
+              "RelativeToolTip": "Final.Core\\Repositories\\IMessageRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T20:36:51.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "FinalAPI\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "FinalAPI\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAMwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T20:48:07.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ISliderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\ISliderRepository.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Repositories\\ISliderRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\ISliderRepository.cs",
+              "RelativeToolTip": "Final.Core\\Repositories\\ISliderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T13:05:34.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Repositories\\IBlogRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IBlogRepository.cs",
+              "RelativeToolTip": "Final.Core\\Repositories\\IBlogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T15:48:42.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CategoryConfigrations.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\CategoryConfigrations.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Configurations\\CategoryConfigrations.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\CategoryConfigrations.cs",
+              "RelativeToolTip": "Final.DAL\\Configurations\\CategoryConfigrations.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T19:54:26.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "SliderConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\SliderConfigurations.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Configurations\\SliderConfigurations.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\SliderConfigurations.cs",
+              "RelativeToolTip": "Final.DAL\\Configurations\\SliderConfigurations.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T16:14:45.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20260721211805_Message.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260721211805_Message.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Migrations\\20260721211805_Message.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260721211805_Message.cs",
+              "RelativeToolTip": "Final.DAL\\Migrations\\20260721211805_Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T21:18:06.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\Category.cs",
+              "RelativeToolTip": "Final.Core\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T19:42:16.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ExistException.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Exceptions\\ExistException.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Exceptions\\ExistException.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Exceptions\\ExistException.cs",
+              "RelativeToolTip": "Final.BL\\Exceptions\\ExistException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:53:42.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\MessageService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implements\\MessageService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\MessageService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implements\\MessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T20:58:36.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Final.Core\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T00:39:07.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IMessageService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\IMessageService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstract\\IMessageService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\IMessageService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstract\\IMessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T21:04:14.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "MessageGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Message\\MessageGetDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Message\\MessageGetDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Message\\MessageGetDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\Message\\MessageGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T20:54:17.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "MessageUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Message\\MessageUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Message\\MessageUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Message\\MessageUpdateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\Message\\MessageUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T20:54:39.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "MessageCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Message\\MessageCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Message\\MessageCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Message\\MessageCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\Message\\MessageCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T20:53:48.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "SliderUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Slider\\SliderUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Slider\\SliderUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Slider\\SliderUpdateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\Slider\\SliderUpdateDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T12:50:32.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "SliderGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Slider\\SliderGetDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Slider\\SliderGetDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Slider\\SliderGetDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\Slider\\SliderGetDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T12:50:27.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "BlogGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Blog\\BlogGetDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Blog\\BlogGetDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Blog\\BlogGetDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\Blog\\BlogGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T15:44:46.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20260721185033_AboutUs.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260721185033_AboutUs.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Migrations\\20260721185033_AboutUs.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260721185033_AboutUs.cs",
+              "RelativeToolTip": "Final.DAL\\Migrations\\20260721185033_AboutUs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T18:50:34.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "AboutUsGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\AboutUs\\AboutUsGetDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\AboutUs\\AboutUsGetDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\AboutUs\\AboutUsGetDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\AboutUs\\AboutUsGetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T18:13:34.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "AboutUsCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\AboutUs\\AboutUsCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\AboutUs\\AboutUsCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\AboutUs\\AboutUsCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\AboutUs\\AboutUsCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T18:13:12.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "AboutUsController.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\AboutUsController.cs",
+              "RelativeDocumentMoniker": "FinalAPI\\Controllers\\AboutUsController.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\AboutUsController.cs",
+              "RelativeToolTip": "FinalAPI\\Controllers\\AboutUsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T18:06:09.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "AboutUsService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\AboutUsService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implements\\AboutUsService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\AboutUsService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implements\\AboutUsService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwC4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T18:23:57.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "AboutUsUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\AboutUs\\AboutUsUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\AboutUs\\AboutUsUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\AboutUs\\AboutUsUpdateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\AboutUs\\AboutUsUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T18:14:11.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "AboutUsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\AboutUsRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\AboutUsRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\AboutUsRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\AboutUsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:56:18.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "AboutUsProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\AboutUsProfile.cs",
+              "RelativeDocumentMoniker": "FinalAPI\\Profiles\\AboutUsProfile.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\AboutUsProfile.cs",
+              "RelativeToolTip": "FinalAPI\\Profiles\\AboutUsProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T18:10:17.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "BlogService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\BlogService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implements\\BlogService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\BlogService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implements\\BlogService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T16:13:17.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "IAboutUsService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\IAboutUsService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstract\\IAboutUsService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\IAboutUsService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstract\\IAboutUsService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T18:21:24.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "IAboutUsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IAboutUsRepository.cs",
+              "RelativeDocumentMoniker": "Final.Core\\Repositories\\IAboutUsRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Repositories\\IAboutUsRepository.cs",
+              "RelativeToolTip": "Final.Core\\Repositories\\IAboutUsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T18:02:34.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "IBlogService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\IBlogService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstract\\IBlogService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\IBlogService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstract\\IBlogService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T16:07:21.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "AboutConfigrations.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\AboutConfigrations.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Configurations\\AboutConfigrations.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\AboutConfigrations.cs",
+              "RelativeToolTip": "Final.DAL\\Configurations\\AboutConfigrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T17:48:41.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\BlogRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\BlogRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\BlogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T15:51:55.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "FinalAPI\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "FinalAPI\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T16:30:15.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "20260721164325_Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260721164325_Blog.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Migrations\\20260721164325_Blog.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260721164325_Blog.cs",
+              "RelativeToolTip": "Final.DAL\\Migrations\\20260721164325_Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T16:43:25.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "BlogConfigrations.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\BlogConfigrations.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Configurations\\BlogConfigrations.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Configurations\\BlogConfigrations.cs",
+              "RelativeToolTip": "Final.DAL\\Configurations\\BlogConfigrations.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T15:25:07.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "FinalAPI\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "FinalAPI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T21:54:24.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Implements\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Implements\\CategoryService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Implements\\CategoryService.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T21:34:38.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "BlogProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\BlogProfile.cs",
+              "RelativeDocumentMoniker": "FinalAPI\\Profiles\\BlogProfile.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\BlogProfile.cs",
+              "RelativeToolTip": "FinalAPI\\Profiles\\BlogProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T15:38:31.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "BlogUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Blog\\BlogUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Blog\\BlogUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Blog\\BlogUpdateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\Blog\\BlogUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T15:46:04.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "BlogCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Blog\\BlogCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Blog\\BlogCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Blog\\BlogCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\Blog\\BlogCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T15:43:56.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Final.DAL\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T20:05:30.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Final.BL\\Services\\Abstract\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Services\\Abstract\\ICategoryService.cs",
+              "RelativeToolTip": "Final.BL\\Services\\Abstract\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T21:30:21.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "FinalAPI\\Profiles\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Profiles\\CategoryProfile.cs",
+              "RelativeToolTip": "FinalAPI\\Profiles\\CategoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T21:10:35.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "20260720222824_AddCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260720222824_AddCategory.cs",
+              "RelativeDocumentMoniker": "Final.DAL\\Migrations\\20260720222824_AddCategory.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260720222824_AddCategory.cs",
+              "RelativeToolTip": "Final.DAL\\Migrations\\20260720222824_AddCategory.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T22:28:24.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "CategoryCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Category\\CategoryCreateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Category\\CategoryCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Category\\CategoryCreateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\Category\\CategoryCreateDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T21:24:06.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "CategoryGetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Category\\CategoryGetDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Category\\CategoryGetDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Category\\CategoryGetDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\Category\\CategoryGetDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T21:25:35.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "CategoryUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Category\\CategoryUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Final.BL\\DTOs\\Category\\CategoryUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\DTOs\\Category\\CategoryUpdateDTO.cs",
+              "RelativeToolTip": "Final.BL\\DTOs\\Category\\CategoryUpdateDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T21:26:25.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FinalAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Program.cs",
+              "RelativeToolTip": "FinalAPI\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T13:42:03.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
               "Title": "20260720163638_Sliders.cs",
               "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.DAL\\Migrations\\20260720163638_Sliders.cs",
               "RelativeDocumentMoniker": "Final.DAL\\Migrations\\20260720163638_Sliders.cs",
@@ -1001,7 +1874,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 110,
               "Title": "FinalAPI.csproj",
               "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\FinalAPI.csproj",
               "RelativeDocumentMoniker": "FinalAPI\\FinalAPI.csproj",
@@ -1013,7 +1886,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 109,
               "Title": "Final.BL.csproj",
               "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Final.BL.csproj",
               "RelativeDocumentMoniker": "Final.BL\\Final.BL.csproj",
@@ -1025,19 +1898,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "ExceptionMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Middlewares\\ExceptionMiddleware.cs",
-              "RelativeDocumentMoniker": "FinalAPI\\Middlewares\\ExceptionMiddleware.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\Middlewares\\ExceptionMiddleware.cs",
-              "RelativeToolTip": "FinalAPI\\Middlewares\\ExceptionMiddleware.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T00:49:47.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 108,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\FinalAPI\\appsettings.json",
               "RelativeDocumentMoniker": "FinalAPI\\appsettings.json",
@@ -1049,7 +1910,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 111,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "Final.BL\\Exceptions\\NotFoundException.cs",
@@ -1061,19 +1922,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "ExistException.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Exceptions\\ExistException.cs",
-              "RelativeDocumentMoniker": "Final.BL\\Exceptions\\ExistException.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Exceptions\\ExistException.cs",
-              "RelativeToolTip": "Final.BL\\Exceptions\\ExistException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-20T00:53:42.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 112,
               "Title": "IBaseException.cs",
               "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\Exceptions\\Common\\IBaseException.cs",
               "RelativeDocumentMoniker": "Final.BL\\Exceptions\\Common\\IBaseException.cs",
@@ -1082,30 +1931,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-20T00:52:01.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 63,
-              "Title": "FileService.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\ExternalServices\\implements\\FileService.cs",
-              "RelativeDocumentMoniker": "Final.BL\\ExternalServices\\implements\\FileService.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.BL\\ExternalServices\\implements\\FileService.cs",
-              "RelativeToolTip": "Final.BL\\ExternalServices\\implements\\FileService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T13:41:15.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 64,
-              "Title": "CloudinarySettings.cs",
-              "DocumentMoniker": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\CloudinarySettings.cs",
-              "RelativeDocumentMoniker": "Final.Core\\Entities\\CloudinarySettings.cs",
-              "ToolTip": "C:\\Users\\Yusiff\\OneDrive\\Desktop\\FINAL\\FinalAPI\\Final.Core\\Entities\\CloudinarySettings.cs",
-              "RelativeToolTip": "Final.Core\\Entities\\CloudinarySettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-19T13:46:40.869Z"
             }
           ]
         }

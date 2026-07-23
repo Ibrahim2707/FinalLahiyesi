@@ -7,6 +7,6 @@
         public string Link { get; set; }
         public string  Image { get; set; }
         public ICollection<Blog> Blogs { get; set; }
-        //public  ICollection<Product> Products { get; set; }
+        public  ICollection<Product> Products { get; set; }
     }
 }

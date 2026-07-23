@@ -14,6 +14,11 @@ namespace Final.BL
             services.AddScoped<ICategoryService,CategoryService>();
             services.AddScoped<IBlogService, BlogService>();
             services.AddScoped<IAboutUsService, AboutUsService>();
+            services.AddScoped<IMessageService, MessageService>();
+            services.AddScoped<IProductService, ProductService>();
+            services.AddScoped<IProductParameterService, ProductParameterService>();
+            services.AddScoped<IProductImageService, ProductImageService>();
+            services.AddScoped<IBasketService, BasketService>();
             return services;
         }
         public static IServiceCollection AddFluentValidation(this IServiceCollection services)
